@@ -1,4 +1,4 @@
-# TFD.py
+# TFD.py (BETA!!)
 
 ## Async Python Library for the TFD OpenAPI
 
