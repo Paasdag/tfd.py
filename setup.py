@@ -8,7 +8,7 @@ setup(
     author='Dean',
     license='Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International',
     packages=find_packages(include=['tfd_py', 'tfd_py.*']),
-    long_description=open("README.md").read(),
+    long_description=open("readme.md").read(),
     long_description_content_type="text/markdown",
     python_requires=">=3.10",
     install_requires=[
